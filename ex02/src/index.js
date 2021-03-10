@@ -1,4 +1,4 @@
-function main(){
+function main() {
     //Only change code below this line
     
     //Jednolinijski komentar
@@ -11,6 +11,6 @@ function main(){
 
 }
 
-main();
+console.log(main());
 
 module.exports = main;
